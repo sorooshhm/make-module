@@ -1,0 +1,14 @@
+{
+  "name": "module-make",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "make-module": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
